@@ -49,3 +49,7 @@ Para analise aprofundada da sua arquitetura internacional:
 ## Consultoria em Internacionalizacao SEO
 
 Para expansao europeia e internacional de plataformas web sob Diretivas Europeias de Interoperabilidade e W3C, consulte a equipa da **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
