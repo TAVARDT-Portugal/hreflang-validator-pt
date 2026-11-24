@@ -5,7 +5,7 @@
 
 Auditoria tecnica de ligacoes reciprocas, codigos de idioma e regiao ISO e diretivas x-default.
 
-Desenvolvido e mantido pela divisao de arquitetura semantica e internacionalizacao da **TAVARDT Portugal**.
+Desenvolvido e mantido pela divisao de arquitetura semantica e internacionalizacao da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python hreflang_validator.py https://empresa.pt -json
 Para analise aprofundada da sua arquitetura internacional:
 
 * **Verificador de Hreflang Oficial**
-* **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Consultoria em Internacionalizacao SEO
 
-Para expansao europeia e internacional de plataformas web sob Diretivas Europeias de Interoperabilidade e W3C, consulte a equipa da **TAVARDT Portugal**.
+Para expansao europeia e internacional de plataformas web sob Diretivas Europeias de Interoperabilidade e W3C, consulte a equipa da **TAVARDT**.
 
 ***
 
