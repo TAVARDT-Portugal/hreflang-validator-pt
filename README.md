@@ -1,14 +1,13 @@
 # Verificador de Tags Hreflang e Internacionalizacao SEO
 
 [![Verificador Hreflang](https://img.shields.io/badge/TAVARDT-Hreflang-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-hreflang-seo/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Portugal-00C853.svg)](https://ag.tavardt.com/pt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria tecnica de ligacoes reciprocas, codigos de idioma e regiao ISO e diretivas x-default.
 
-Desenvolvido e mantido pela divisao de arquitetura semantica e internacionalizacao da **[TAVARDT Portugal](https://ag.tavardt.com/pt/)**.
+Desenvolvido e mantido pela divisao de arquitetura semantica e internacionalizacao da **TAVARDT Portugal**.
 
----
+***
 
 ## Capacidades de Auditoria de Hreflang e SEO Internacional
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pela divisao de arquitetura semantica e internacionalizac
 * **Harmonia com Tag Canonica**: Deteccao de divergencias entre o apontador canonico e a anotacao hreflang autorreferencial.
 * **Indice de Coerencia Multilingue**: Pontuacao tecnica de 0 a 100 com instrucoes de correcao de sintaxe.
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python hreflang_validator.py https://empresa.pt
 Para inspecao automatizada com saida em formato JSON:
 
 ```bash
-python hreflang_validator.py https://empresa.pt --json
+python hreflang_validator.py https://empresa.pt -json
 ```
 
----
+***
 
 ## Diagnostico Completo na Web
 
 Para analise aprofundada da sua arquitetura internacional:
 
-* **[Verificador de Hreflang Oficial](https://tools.tavardt.com/pt/verificador-hreflang-seo/)**
+* **Verificador de Hreflang Oficial**
 * **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
 
----
+***
 
 ## Consultoria em Internacionalizacao SEO
 
-Para expansao europeia e internacional de plataformas web sob Diretivas Europeias de Interoperabilidade e W3C, consulte a equipa da **[TAVARDT Portugal](https://ag.tavardt.com/pt/contato/)**.
+Para expansao europeia e internacional de plataformas web sob Diretivas Europeias de Interoperabilidade e W3C, consulte a equipa da **TAVARDT Portugal**.
