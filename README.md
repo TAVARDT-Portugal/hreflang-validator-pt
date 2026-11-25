@@ -1,26 +1,29 @@
-# Verificador de Tags Hreflang e Internacionalizacao SEO
+# Verificador de Tags Hreflang e SEO Internacional
 
 [![Verificador Hreflang](https://img.shields.io/badge/TAVARDT-Hreflang-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-hreflang-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Auditoria tecnica de ligações reciprocas, codigos de idioma e regiao ISO e diretivas x-default.
+Auditoria de reciprocidade de ligacoes alternativas, anotacoes linguisticas e geograficas ISO, e arquitetura de fallback x-default.
+
+Desenvolvido e mantido pela divisao de engenharia de pesquisa internacional e normas tecnicas da **TAVARDT**.
 
 ***
 
 ## Capacidades de Auditoria de Hreflang e SEO Internacional
 
-* **Inspeção de Reciprocidade de Ligações**: Confirma se cada pagina alternativa possui anotacao de retorno equivalente, assegurando a validacao pelo algoritmo de pesquisa.
-* **Verificacao de Normas ISO 639-1 e ISO 3166-1**: Análise de sintaxe de idiomas e regioes (ex: `pt-PT`, `es-ES`, `en-GB`), prevenindo erros de formato.
-* **Garantia de Tag x-default**: Validacao de rota de contingencia global para utilizadores fora das geografias segmentadas.
-* **Harmonia com Tag Canonica**: Deteccao de divergencias entre o apontador canonico e a anotacao hreflang autorreferencial.
-* **Indice de Coerencia Multilingue**: Pontuacao tecnica de 0 a 100 com instrucoes de correcao de sintaxe.
+* **Verificacao de Etiqueta Autorreferencial**: Confirmacao de presenca da URL atual no conjunto de ligacoes alternativas, prevenindo desindexacao regional.
+* **Inspecao de Fallback x-default**: Validacao de rota de contingencia para utilizadores fora dos territorios expressamente mapeados.
+* **Validacao de Normas ISO 639-1 e ISO 3166-1**: Verificacao estrita de codigos de idioma e regiao para eliminar declaracoes regionais invalidas.
+* **Deteccao de Conflito com Canonical**: Identificacao imediata de discordancias criticas entre a indicacao canonical e as anotacoes hreflang.
+* **Extracao em Dupla Fonte**: Analise de anotacoes em elementos HTML `<head>` e cabecalhos de resposta HTTP Link.
+* **Indice de Qualidade Internacional**: Pontuacao tecnica de 0 a 100 com alertas priorizados e recomendacoes imediatas de retificacao.
 
 ***
 
-## Instalação e Execucao
+## Instalacao e Execucao
 
-Requer Python 3.8 ou superior, utilizando a biblioteca padrao.
+Requer Python 3.8 ou superior sem dependencias externas adicionais.
 
 ```bash
 git clone https://github.com/TAVARDT-Portugal/hreflang-validator-pt.git
@@ -28,29 +31,40 @@ cd hreflang-validator-pt
 python hreflang_validator.py https://empresa.pt
 ```
 
-Para inspeção automatizada com saída em formato JSON:
+Para gerar a saida em formato estruturado JSON em esteiras de integracao continua:
 
 ```bash
-python hreflang_validator.py https://empresa.pt -json
+python hreflang_validator.py https://empresa.pt -j
 ```
 
 ***
 
-## Consultoria em Internacionalizacao SEO
+## Diagnostico Completo na Web
 
-Para expansao europeia e internacional de plataformas web sob Diretivas Europeias de Interoperabilidade e W3C, consulte a equipa da **TAVARDT Portugal**.
+Para auditorias aprofundadas e inspecao visual de etiquetas internacionais:
 
-## Links Úteis
+* [Verificador Hreflang](https://tools.tavardt.com/pt/verificador-hreflang-seo/)
+* [Portal Corporativo](https://ag.tavardt.com/pt/)
+
+***
+
+## Consultoria em SEO Internacional e Arquitetura Global
+
+Para expansao transfronteirica e conformidade com diretrizes tecnicas do W3C, consulte a equipa da **TAVARDT**.
+
+***
+
+## Links Uteis
 
 * **Portal Corporativo:** https://ag.tavardt.com/pt/
-* **Suíte de Diagnósticos:** https://tools.tavardt.com/pt/
-* **Contacto Técnico:** https://ag.tavardt.com/pt/contacto/
+* **Suite de Diagnosticos:** https://tools.tavardt.com/pt/
+* **Contacto Tecnico:** https://ag.tavardt.com/pt/contacto/
 
 ***
 
-### Licença
-Distribuído sob a Licença MIT.
+### Licenca
+Distribuido sob a Licenca MIT. Consulte o ficheiro LICENSE para detalhes completos.
 
 ***
 
-© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
+© 2026 TAVARDT. Todos os direitos reservados.
