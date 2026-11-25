@@ -66,15 +66,6 @@ A validacao baseia-se na norma ISO 639-1 para identificadores de idioma e na nor
 
 ***
 
-## Diagnostico Completo na Web
-
-Para auditorias aprofundadas e inspecao visual de etiquetas internacionais:
-
-* [Verificador Hreflang](https://tools.tavardt.com/pt/verificador-hreflang-seo/)
-* [Portal Corporativo](https://ag.tavardt.com/pt/)
-
-***
-
 ## Consultoria em SEO Internacional e Arquitetura Global
 
 Para expansao transfronteirica e conformidade com diretrizes tecnicas do W3C, consulte a equipa da **TAVARDT**.
